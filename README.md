@@ -2,7 +2,7 @@
 
 💻 **Background:**  
 AI enthusiast and cross-disciplinary explorer in the biomedical field.  
-My research focuses on **genomics** and **EEG signal analysis**, with a deep curiosity about the **mathematical essence of computational biology**. Recently, I’ve been diving into hands-on wet lab experiments, aiming to become a "full-stack biohacker"!  
+My research focuses on **genomics** and **EEG signal analysis**, with a deep curiosity about the **mathematical essence of computational biology**. Recently, Recently, I’ve been diving into hands-on wet lab experiments, hoping to bridge the gap between computational models and practical biology. 
 
 🎯 **My Goal:**  
 100% dedicated to exploring the intersection of **life sciences and AI**, striving to push the boundaries of our understanding of life through technology.  
