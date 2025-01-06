@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jasmin Tianhua 🌟  
+# 👋 Hi, I'm Jasmin_also_Tianhua 🌟  
 
 💻 **Background:**  
 AI enthusiast and cross-disciplinary explorer in the biomedical field.  
